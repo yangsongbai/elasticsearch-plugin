@@ -1,0 +1,7 @@
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/action/TcpAudit.java
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/action/SciHandler.java
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/action/HttpAuthHandler.java
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/config/AuthConfig.java
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/action/TcpAuditActionFilter.java
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/EsPlugin.java
+/Users/yangsongbai/workspace/github/elasticsearch-plugin/src/main/java/com/esplugin/module/xpackPlugin/EsModule.java
